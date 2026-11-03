@@ -1,9 +1,0 @@
-{
-  "private": true,
-  "name": "wonder-t-schedule",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "@netlify/blobs": "^11.1.4"
-  }
-}
